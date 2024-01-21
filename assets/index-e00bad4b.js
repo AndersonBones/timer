@@ -80,7 +80,6 @@ Error generating stack: `+o.message+`
         box-shadow: 0 0 0 2px ${e=>e.theme["green-500"]};
     }
     body{
-        
         background-color: ${e=>e.theme["gray-900"]};
         color: ${e=>e.theme["gray-300"]};
         -webkit-font-smothing:antialiased;
@@ -320,7 +319,7 @@ Error generating stack: `+o.message+`
     }
 
 `,Tx=We.span`
-    color: ${e=>e.theme["green-500"]}
+    color: ${e=>e.theme["green-500"]};
 `,Nx=()=>O.jsxs(Px,{children:[O.jsx(Tx,{children:O.jsx(gf,{size:50})}),O.jsxs("nav",{children:[O.jsx(tf,{to:"/",title:"Timer",children:O.jsx(gf,{size:24})}),O.jsx(tf,{to:"/history",title:"Historico",children:O.jsx(Q1,{size:24})})]})]}),Rx=We.div`
     max-width: 74rem;
     height:calc(100vh - 10vh) ;

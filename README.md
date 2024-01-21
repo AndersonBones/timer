@@ -25,3 +25,7 @@ If you are developing a production application, we recommend updating the config
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+# Preview
+![image](https://github.com/AndersonBones/timer/assets/91613692/31c6553c-d4fa-45a0-9cc0-290d3ed1795e)
+<a href="https://timer-chi-three.vercel.app/" target="_blank">Live Demo</a>

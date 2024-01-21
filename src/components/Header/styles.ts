@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import {css} from "styled-components";
+
 
 export const HeaderContainer = styled.header`
 
@@ -41,4 +41,8 @@ export const HeaderContainer = styled.header`
         }
     }
 
+`
+
+export const LogoIcon = styled.span`
+    color: ${props=>props.theme['green-500']};
 `

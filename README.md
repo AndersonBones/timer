@@ -27,5 +27,6 @@ If you are developing a production application, we recommend updating the config
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
 # Preview
-![image](https://github.com/AndersonBones/timer/assets/91613692/31c6553c-d4fa-45a0-9cc0-290d3ed1795e)
+![image](https://github.com/AndersonBones/timer/assets/91613692/c5760927-71e9-48fd-b245-3be25d059624)
+
 <a href="https://timer-chi-three.vercel.app/" target="_blank">Live Demo</a>

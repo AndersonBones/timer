@@ -74,7 +74,7 @@ export const HistoryList = styled.div`
 
 
 interface StatusProps{
-    statusColor:'yellow' | 'red' | 'green'
+    statusColor:'yellow' | 'red' | 'blue'
 }
 export const Status = styled.span<StatusProps>`
     display: flex;

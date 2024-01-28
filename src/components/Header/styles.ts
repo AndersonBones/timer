@@ -31,12 +31,12 @@ export const HeaderContainer = styled.header`
                 
             }
             &:hover{
-                border-bottom: 3px solid ${props=>props.theme['green-500']};
+                border-bottom: 3px solid ${props=>props.theme['blue-500']};
             }
 
             &.active{
-                border-bottom: 3px solid ${props=>props.theme['green-500']};
-                color: ${props=>props.theme['green-500']};
+                border-bottom: 3px solid ${props=>props.theme['blue-500']};
+                color: ${props=>props.theme['blue-500']};
             }
         }
     }
@@ -44,5 +44,5 @@ export const HeaderContainer = styled.header`
 `
 
 export const LogoIcon = styled.span`
-    color: ${props=>props.theme['green-500']};
+    color: ${props=>props.theme['blue-500']};
 `

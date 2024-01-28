@@ -48,10 +48,10 @@ const baseButton = styled.button`
 
 
 export const StartButton = styled(baseButton)`
-    background: ${props=>props.theme['green-500']};
+    background: ${props=>props.theme['blue-500']};
 
     &:not(:disabled):hover{
-        background: ${props=>props.theme['green-700']};
+        background: ${props=>props.theme['blue-700']};
     }
 `
 
